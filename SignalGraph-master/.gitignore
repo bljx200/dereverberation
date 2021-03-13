@@ -1,0 +1,17 @@
+*.asv
+
+utils/io/htk2ark.c
+examples/regression/nnet/
+examples/classification_framewise/nnet/
+examples/beamforming/mask_prediction/nnet/*/
+examples/beamforming/mask_prediction/debug/*
+examples/beamforming/Kaldi/exp-fbank/tri4a_dnn_tr05_multi_ch5/
+examples/dereverb/debug/*
+examples/dereverb/nnet/*
+examples/enhancement/debug/*
+examples/enhancement/nnet/*
+examples/separation/debug/*
+examples/separation/nnet/*
+examples/generative/*
+.git.bfg-report/*
+design_notes/*

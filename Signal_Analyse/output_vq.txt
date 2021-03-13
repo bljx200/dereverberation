@@ -1,0 +1,6 @@
+VQ Runs, Isolated Digit input, 12 coefficients (cep) 
+ 
+vqsize:4, vqloops:2 
+epsilon:  0.0010 
+thresh:   0.0010 
+nrun:  11.0000 
